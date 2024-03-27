@@ -11,4 +11,4 @@ Student Info
 
 * Student Name: Nguyễn Minh Hoàng
 * Student ID: BI12-172
-* Student Group ID: Not-for-now
+* Student Group ID: 16
